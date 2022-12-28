@@ -8,7 +8,7 @@
 
 
 using HorizonSideRobots
-r=Robot(animate=true)
+r=Robot("11.sit"; animate=true)
 function rCountPartt(robot)
     side = Ost
     count = 0
